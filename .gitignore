@@ -1,2 +1,5 @@
 local.loc/*
 Docker/mysql/databases/*
+Docker/logs/nginx/*
+Docker/logs/php/*
+Docker/logs/mysql/*
